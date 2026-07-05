@@ -1,10 +1,3 @@
-<video controls preload="metadata" width="100%">
-  <source src="./Image/From%20Klickpin.com-%20Short%20hopeful%20notes%20for%20beginners%20for%20inspiration%20you%20can%20revisit%20anytime%20that%20feel%20calm%20and%20clear-pin-id-1149403136167390125.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
-<p><a href="./Image/From%20Klickpin.com-%20Short%20hopeful%20notes%20for%20beginners%20for%20inspiration%20you%20can%20revisit%20anytime%20that%20feel%20calm%20and%20clear-pin-id-1149403136167390125.mp4">Open the video</a></p>
-
 # 🍃 Project Life
 
 Two bros. One repo. A whole lot of dreams.

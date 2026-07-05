@@ -9,7 +9,6 @@ Every entry we write should follow this structure so the repo stays consistent. 
 - **Region/Continent:**
 - **Why we picked it:**
 - **First impressions / fun facts:**
-- **Have we been here?** ✅ / ❌
 
 ## 🎭 Culture
 - **Traditions & festivals:**
